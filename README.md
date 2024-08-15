@@ -1,2 +1,2 @@
 # Etch-a-Sketch
-Another interactive site to practice javascript
+Second interactive site to practice javascript more
